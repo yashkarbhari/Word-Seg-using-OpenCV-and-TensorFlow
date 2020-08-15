@@ -1,4 +1,4 @@
-# Word-Segmentation-using-open-cv
+# Word-Segmentation-using-open-cv-and-tensorflow
 
 This is a dataset from Kaggle where the goal was to segment the captcha images with each character. Here we use the OpenCV library to 
 You can find the dataset [here](https://www.kaggle.com/fournierp/captcha-version-2-images).
