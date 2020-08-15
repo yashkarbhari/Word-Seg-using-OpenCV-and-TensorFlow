@@ -5,4 +5,4 @@ You can find the dataset [here](https://www.kaggle.com/fournierp/captcha-version
 
 ![](Captcha%20Image.png)
 
-The images are 5 letter words that can contain numbers. This dataset is a perfect opportunity to attempt to make Optical Character Recognition algorithms.
+The images are 5 letter words that can contain numbers. This dataset is a perfect opportunity to attempt to make __Optical Character Recognition__ algorithms.
